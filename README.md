@@ -1,5 +1,5 @@
 # DOTDVN — My Portfolio
-
+<img width="1903" height="963" alt="Screenshot From 2026-10-24 13-46-37" src="https://github.com/user-attachments/assets/3a1a10f3-da29-4816-83d2-769818fa9510" />
 
 I'm Devanarayanan, a student developer from Kerala who loves coding, electronics, IoT and building random ideas into real projects.
 
